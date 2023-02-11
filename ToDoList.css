@@ -124,3 +124,19 @@ h1
 {
     transform: scale(0.7);
 }
+
+#clear{
+    background-color: red;
+    color: white;
+    border-radius: 7px;
+    padding: 10px;
+    border:none;
+    cursor: pointer;
+    font-size: 13px;
+}
+#clear:hover{
+    transform: scale(1.1);
+}
+#clear:active{
+    transform: scale(0.9);
+}
